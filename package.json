@@ -1,0 +1,46 @@
+{
+    "name": "eha-code-dark",
+    "displayName": "EHA Code Dark",
+    "description": "Pure black theme matching JetBrains Rider jake-theme with Visual Studio Dark syntax highlighting",
+    "version": "1.0.0",
+    "publisher": "ethan-hawkins",
+    "license": "GPL-3.0-only",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/eh117/eha-code-dark"
+    },
+    "bugs": {
+        "url": "https://github.com/eh117/eha-code-dark/issues"
+    },
+    "homepage": "https://github.com/eh117/eha-code-dark#readme",
+    "keywords": [
+        "theme",
+        "dark",
+        "black",
+        "jetbrains",
+        "rider",
+        "visual studio"
+    ],
+    "galleryBanner": {
+        "color": "#111111",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "markdown.previewStyles": [
+            "./markdown-preview.css"
+        ],
+        "themes": [
+            {
+                "label": "EHA Code Dark",
+                "uiTheme": "vs-dark",
+                "path": "./eha-code-dark-theme.json"
+            }
+        ]
+    }
+}

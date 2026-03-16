@@ -1,0 +1,4 @@
+# Files not needed inside the packaged VSIX
+install-windows.ps1
+.vscodeignore
+*.vsix
