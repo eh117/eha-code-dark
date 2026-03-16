@@ -2,7 +2,7 @@
     "name": "eha-code-dark",
     "displayName": "EHA Code Dark",
     "description": "Pure black theme matching JetBrains Rider jake-theme with Visual Studio Dark syntax highlighting",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "eh117",
     "license": "GPL-3.0-only",
     "repository": {
