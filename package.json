@@ -3,7 +3,7 @@
     "displayName": "EHA Code Dark",
     "description": "Pure black theme matching JetBrains Rider jake-theme with Visual Studio Dark syntax highlighting",
     "version": "1.0.0",
-    "publisher": "ethan-hawkins",
+    "publisher": "eh117",
     "license": "GPL-3.0-only",
     "repository": {
         "type": "git",
@@ -21,6 +21,7 @@
         "rider",
         "visual studio"
     ],
+    "icon": "logo.png",
     "galleryBanner": {
         "color": "#111111",
         "theme": "dark"
